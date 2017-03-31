@@ -1,6 +1,6 @@
 # wordcount-py
 
-Demo programm to search a text file for word with most repeating characters.  Written in Python.
+Demo program to search a text file for word with most repeating characters.  Written in Python.
 
 Usage:
 ./word_count.py shakespeare.txt
